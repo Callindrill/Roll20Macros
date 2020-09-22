@@ -1,0 +1,4 @@
+&{template:npcaction} {{rname=Roll Ability Scores}}{{description=
+
+[Good luck...](! 
+&#38;&#123;template:default&#125;&#123;&#123;name=Ability Score Results&#125;&#125;&#123;&#123;Ability Score 1=&#91;&#91;4d6dl1cf&lt;0cs&gt;7&#93;&#93;&#125;&#125;&#123;&#123;Ability Score 2=&#91;&#91;4d6dl1cf&lt;0cs&gt;7&#93;&#93;&#125;&#125;&#123;&#123;Ability Score 3=&#91;&#91;4d6dl1cf&lt;0cs&gt;7&#93;&#93;&#125;&#125;&#123;&#123;Ability Score 4=&#91;&#91;4d6dl1cf&lt;0cs&gt;7&#93;&#93;&#125;&#125;&#123;&#123;Ability Score 5=&#91;&#91;4d6dl1cf&lt;0cs&gt;7&#93;&#93;&#125;&#125;&#123;&#123;Ability Score 6=&#91;&#91;4d6dl1cf&lt;0cs&gt;7&#93;&#93;&#125;&#125;)}}
